@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nqaisar
-- 👀 I’m interested in softwre architectures, event-driven architectures and services.
-- 🌱 Microservices; and identifying services from the existing code. 
-- 💞️ I’m looking to collaborate on microservices and migrating existing systems towards the microservice architectures. 
+- 👀 I’m interested in softwre architectures, event-driven architectures and applications of artificial intelligence in software engineering  and services.
+- 🌱 Microservices; and identifying services from the existing code.
+- 🌱 Ethical AI and Explainable AI are my interests with its applications in healthcare domain. 
+- 💞️ I’m looking to collaborate on Ethical AI, microservices and migrating existing systems towards the microservice architectures. 
 - 📫 How to reach me: nadeemqaisar.mehmood@univaq.it 
 
 <!---
