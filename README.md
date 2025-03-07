@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nqaisar
+- 👋 Hi, I’m Dr. Nadeem Qaisar Mehmood
 - 👀 I’m interested in softwre architectures, event-driven architectures and applications of artificial intelligence in software engineering  and services.
 - 🌱 Microservices; and identifying services from the existing code.
 - 🌱 Ethical AI and Explainable AI are my interests with its applications in healthcare domain. 
